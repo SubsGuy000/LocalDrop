@@ -1,0 +1,5 @@
+{
+  "name": "LocalDrop",
+  "description": "A simple file sharing application for your local network.",
+  "requestFramePermissions": []
+}
